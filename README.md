@@ -5,7 +5,7 @@ This project is based on the idea of the need to have a template. In Front of th
 The libraries used in the project are `react-redux`, `redux-thunk`, `react-router-dom`, `socket.io-client`, `styled-components`, `sweetalert2`
 
 ## Back
-#### [Angular socket front](https://github.com/leonelyo99/socket-back-node) 
+#### [Node socket](https://github.com/leonelyo99/socket-back-node) 
 
 ## Available Scripts
 
